@@ -2,7 +2,6 @@ package com.phunghung29.elasticsearch.controller;
 
 import com.phunghung29.elasticsearch.document.Person;
 import com.phunghung29.elasticsearch.service.PersonService;
-import com.phunghung29.elasticsearch.service.impl.PersonServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
